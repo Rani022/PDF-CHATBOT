@@ -1,10 +1,6 @@
-# pdfGPT
-## Demo
-1. **Demo URL**: https://bhaskartripathi-pdfgpt-turbo.hf.space
-2. **Demo Video**:
+
    
-   [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/LzPgmmqpBk8/0.jpg)](https://www.youtube.com/watch?v=LzPgmmqpBk8)
-#### Version Updates (27 July, 2023):
+   [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/LzPgmmqpBk8/0.jpg)](https://www.youtube.com/watch?v=LzPgmmqpBk8
 1. Improved error handling
 2. PDF GPT now supports Turbo models and GPT4 including 16K and 32K token model.
 3. Pre-defined questions for auto-filling the input.
